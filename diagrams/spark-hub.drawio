@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T22:26:11.592Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="1Kv9MvwfoetCsvTXJelj" version="21.2.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T22:29:16.537Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="UDKCL0bkK_nBqNBBokuj" version="21.2.0" type="github">
   <diagram name="Page-1" id="vhdeoAgZ6hmMWukYXMYe">
     <mxGraphModel dx="1942" dy="1062" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -70,10 +70,10 @@
           <mxGeometry x="-359.25" y="490" width="30" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="gqm8zF_rN9MROJ56jwGY-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
-          <mxGeometry x="884.75" y="78.5" width="45.25" height="49" as="geometry" />
+          <mxGeometry x="880" y="78.5" width="50" height="54.14" as="geometry" />
         </mxCell>
-        <mxCell id="gqm8zF_rN9MROJ56jwGY-17" value="Databricks Workspace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="600" y="47.5" width="190" height="30" as="geometry" />
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-17" value="Azure Databricks Workspace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="47.5" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="gqm8zF_rN9MROJ56jwGY-19" value="Virtual devX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="805.0000000000001" y="477.50000000000006" width="120" height="30" as="geometry" />
@@ -165,7 +165,7 @@
         <mxCell id="gqm8zF_rN9MROJ56jwGY-72" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrows-set-12/512/reset-128.png" vertex="1" parent="1">
           <mxGeometry x="-130" y="247.16000000000003" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="gqm8zF_rN9MROJ56jwGY-76" value="Databricks VS Code Extension enables syncing dev code base to databricks workspace user&#39;s repo.&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;User can &lt;b style=&quot;font-size: 15px;&quot;&gt;create&lt;/b&gt;/&lt;b style=&quot;font-size: 15px;&quot;&gt;start&lt;/b&gt;/&lt;b style=&quot;font-size: 15px;&quot;&gt;stop&lt;/b&gt; databricks clusters from VS Code.&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Notebook/script can be executed on Databricks user&#39;s cluster &lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;from VS Code.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;Databricks CLI enables installation of locally build executable onto your databricks user&#39;s cluster&lt;br style=&quot;font-size: 15px;&quot;&gt;to test your code during development." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-76" value="Databricks VS Code Extension enables syncing dev code base to databricks workspace user&#39;s repo.&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;Users can &lt;b style=&quot;font-size: 15px;&quot;&gt;create&lt;/b&gt;/&lt;b style=&quot;font-size: 15px;&quot;&gt;start&lt;/b&gt;/&lt;b style=&quot;font-size: 15px;&quot;&gt;stop&lt;/b&gt; databricks clusters from VS Code.&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Notebook/script can be executed on Databricks user&#39;s cluster &lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;from VS Code.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;Databricks CLI enables installation of locally build executable onto databricks user&#39;s cluster&lt;br style=&quot;font-size: 15px;&quot;&gt;for testing during development." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="-150" y="355" width="690" height="140" as="geometry" />
         </mxCell>
         <mxCell id="gqm8zF_rN9MROJ56jwGY-78" value="&lt;b style=&quot;font-size: 12px;&quot;&gt;Configs&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#C4D2DE;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698609-icon-96-folders-128.png;fontSize=12;imageBackground=#C4D2DE;" vertex="1" parent="1">
