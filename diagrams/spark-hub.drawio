@@ -1,9 +1,185 @@
-<mxfile host="app.diagrams.net" modified="2023-04-19T19:43:23.801Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" version="21.2.0" etag="UfMs8f0DKJLLTLrzBMlW" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-19T21:59:07.012Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="V8LJG08kNt6v0JR7slyy" version="21.2.0" type="github">
   <diagram name="Page-1" id="vhdeoAgZ6hmMWukYXMYe">
-    <mxGraphModel>
+    <mxGraphModel dx="1802" dy="965" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;endArrow=oval;endFill=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-165" y="389.35" as="sourcePoint" />
+            <mxPoint x="520" y="392" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-165" y="392" />
+              <mxPoint x="445" y="392" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-46" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="-360" y="80" width="200" height="439" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-25" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="80" width="560" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#C4D2DE;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="600" y="77.5" width="330" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D8E8F5;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="277.5" width="307.5" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-1" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/devops/Azure_DevOps.svg;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="gqm8zF_rN9MROJ56jwGY-2" target="gqm8zF_rN9MROJ56jwGY-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="130" />
+              <mxPoint x="60" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-2" value="Azure Repo&lt;br&gt;&lt;i&gt;tdp-spark-hub&lt;/i&gt;" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/mscae/Azure_Repos.svg;labelBackgroundColor=#F5F5F5;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="100" width="45" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="gqm8zF_rN9MROJ56jwGY-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-3" value="Azure Artifacts" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/mscae/Azure_Artifacts.svg;labelBackgroundColor=#F5F5F5;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="gqm8zF_rN9MROJ56jwGY-4" target="gqm8zF_rN9MROJ56jwGY-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="130" />
+              <mxPoint x="250" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="gqm8zF_rN9MROJ56jwGY-4" target="gqm8zF_rN9MROJ56jwGY-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-4" value="Build Pipeline" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/mscae/Azure_Pipelines.svg;labelBackgroundColor=#F5F5F5;" vertex="1" parent="1">
+          <mxGeometry x="120" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.visual_studio_online;" vertex="1" parent="1">
+          <mxGeometry x="-190" y="491.5" width="30" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="884.75" y="78.5" width="45.25" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-17" value="Databricks Workspace" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="600" y="47.5" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-19" value="Virtual devX" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="805.0000000000001" y="477.50000000000006" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-23" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: rgb(196, 210, 222);&quot;&gt;&amp;nbsp;tdp-spark-hub&amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="649" y="88.5" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-22" value="&lt;div style=&quot;color: rgb(238, 255, 255); background-color: rgb(38, 50, 56); font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; font-size: 12px;&quot;&gt;&amp;nbsp;&amp;lt;user&amp;gt;/databricks-spark-hub.ide&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="667.2" y="297.5" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-27" value="Azure DevOps" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-80" y="50" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.005;entryY=0.115;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="gqm8zF_rN9MROJ56jwGY-29" target="gqm8zF_rN9MROJ56jwGY-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="155" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="128" />
+              <mxPoint x="400" y="128" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-29" value="Publish Pipeline" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=14;image=img/lib/mscae/Azure_Pipelines.svg;labelBackgroundColor=#F5F5F5;" vertex="1" parent="1">
+          <mxGeometry x="320" y="100" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-39" value="dev cluster" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#00188D;shape=mxgraph.mscae.enterprise.cluster_server;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="630" y="392.19" width="56" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-41" value="&lt;b&gt;Repo&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#C4D2DE;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698609-icon-96-folders-128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="620" y="88.5" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-43" value="&lt;div style=&quot;font-family: Menlo, Monaco, &amp;quot;Courier New&amp;quot;, monospace; line-height: 18px; font-size: 14px;&quot;&gt;&amp;nbsp;jars, wheel&amp;nbsp;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;labelBackgroundColor=#C4D2DE;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="649" y="157.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-44" value="&lt;b&gt;Artifacts&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#C4D2DE;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698609-icon-96-folders-128.png;fontSize=14;imageBackground=#C4D2DE;" vertex="1" parent="1">
+          <mxGeometry x="620" y="157.5" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-45" value="sync repo" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#FFF2CC;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/hawcons/32/698609-icon-96-folders-128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="630" y="297.5" width="29" height="29" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-47" value="VS Code" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-320" y="50" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-48" value="python, scala,&lt;br style=&quot;font-size: 14px;&quot;&gt;sql&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;scripts&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="360.34000000000003" width="47" height="64.32" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-51" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/competitive-strategy-and-corporate-training/512/198_Binary_code_coding_data_document_app_development-128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="350" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-52" value="python, scala, &lt;br style=&quot;font-size: 14px;&quot;&gt;sql, jupyter&lt;br style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Notebooks&lt;/b&gt;" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=14;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.source_code;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="199.99999999999997" width="47" height="64.32" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-54" value="Notebooks" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="495" y="100" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-55" value="Artifacts" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="127.5" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-58" value="&lt;b&gt;dist&lt;/b&gt;" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#FFF2CC;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/computer-and-web-2/500/Download_Files-128.png;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="-250" y="310" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-62" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="gqm8zF_rN9MROJ56jwGY-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="390" as="sourcePoint" />
+            <mxPoint x="570" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-63" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=-0.005;entryY=0.827;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.971;exitY=-0.004;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="gqm8zF_rN9MROJ56jwGY-76" target="gqm8zF_rN9MROJ56jwGY-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="407" as="sourcePoint" />
+            <mxPoint x="520" y="447.19" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-65" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Databricks.svg;" vertex="1" parent="1">
+          <mxGeometry x="-353" y="112.98" width="61.5" height="59.04" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-66" value="Databricks Extension" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="82.98" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-67" value="Databricks CLI" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="127.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-68" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-360" y="186.5" as="sourcePoint" />
+            <mxPoint x="-160" y="186.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-69" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-160" y="261.49" as="sourcePoint" />
+            <mxPoint x="-80" y="261.49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-72" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/arrows-set-12/512/reset-128.png" vertex="1" parent="1">
+          <mxGeometry x="-130" y="247.16000000000003" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gqm8zF_rN9MROJ56jwGY-76" value="Databricks VS Code Extension enables syncing dev code base to databricks workspace user&#39;s repo.&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;User can &lt;b style=&quot;font-size: 15px;&quot;&gt;create&lt;/b&gt;/&lt;b style=&quot;font-size: 15px;&quot;&gt;start&lt;/b&gt;/&lt;b style=&quot;font-size: 15px;&quot;&gt;stop&lt;/b&gt; databricks clusters from VS Code.&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;Notebook/code can be executed on Databricks dev cluster &lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 15px;&quot;&gt;from VS Code.&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;br style=&quot;font-size: 15px;&quot;&gt;&lt;/div&gt;Databricks CLI enables installation of locally build executable onto your databricks user&#39;s cluster&lt;br style=&quot;font-size: 15px;&quot;&gt;to test your code during development." style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="395" width="690" height="140" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
